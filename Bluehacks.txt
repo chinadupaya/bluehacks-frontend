@@ -1,0 +1,39 @@
+Cultural Development
+I. Promoting Philippines Culture and Values
+	A. Culture
+		1. Models of Development
+		2. Complex Whole (Man as a Member of Society)
+			a. Knowledge
+			b. Belief
+			c. Art
+			d. Law
+			e. Morals
+			f. Custom
+			g. Capabilities and Habits 
+	B. Philippines
+		1. Archipelago (Divide and Conquer)
+			a. 7641 Islands
+			b. 120 to 187 Languages
+			c. 100,000,000 People
+		2. Diverse Cultures and Understanding the Self
+		3. Culture Sensitive Governance and Development Strengthened
+		4. Social and Political Organization
+	C. Knowledge-Based Economy
+II. Hackathon
+	1. Problem Statement
+	3. Solution
+	4. Value Proposition
+	5. Market Validation
+	4. Competitive Advantage
+	5. Demo
+	5. Business Model
+	6. Future Roadmap
+III. Research Ideas
+	1. Culture X People Stimulate Active Engagement (Diversity Versus Global Cultural Standardization and Homoginization)
+	2. Culture X Education as Champions for a Humanistic Approach (Internet of Cititzens)
+	3. Culture X Technology as Key Vectors in Generating Necessary Social Intelligence (Informs Future Dialogue and Alternative Development Models)
+IV. Ideas
+	1. HelloTalk for Students (X Project Marayum)
+	2. Cultural Google Maps with Annotations
+	3. E-Commerce Apps for Local Artists
+	4. Coursera/Udemy for Filipino Crafstmanship 
